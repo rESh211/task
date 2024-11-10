@@ -1,5 +1,6 @@
 package products
 
+// Структура продукта.
 type Product struct {
 	Name  string
 	price float64
